@@ -4,9 +4,7 @@
 
 #include <stdio.h>
 int main()
-{
-	printf("Harsh Vijay Vedpathak\n24030331378026 \nVLSI Batch-B\n");
-	
+{	
 	int a,b;
 	printf("Enter the Variable A \n");
 	scanf("%d", &a);
