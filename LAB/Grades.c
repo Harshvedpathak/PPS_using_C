@@ -1,3 +1,4 @@
+//WAP to find grade obtained by student if students enters marks through keyboard
 //Harsh Vedpathak 8026
 // 24-04-2025
 #include <stdio.h>
