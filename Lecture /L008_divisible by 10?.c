@@ -1,3 +1,5 @@
+//17-04-2025
+//Lecture_WAP to find whether the number entered is completely divisible by 10 or not.
 #include <stdio.h>
 int main()
 {
