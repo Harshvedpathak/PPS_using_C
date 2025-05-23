@@ -1,0 +1,15 @@
+01. WAP to Print Hello World.
+02. WAP for Addition of two numbers input through keyboard.
+03. WAP to calculate average of two numbers.
+04. WAP to accept marks obtained by a student in Physics, Chemistry, Mathematics & Biology out of 100 for each subject. Calculate and display total marks, average marks and percentage marks obtained by student.
+05.WAP to Print "yes" if the given number is greater than 3 ('if' Statement).
+06.WAP to Print "Greater" & "Smaller" if the given number is greater or Smaller than 3 (Example of if-else Statement).
+07.WAP to find whether the number entered by user is odd or even.
+08.WAP to find whether the number entered is completely divisible by 10 or not.
+09.WAP if a three digit number is input through keyboard write a program to calculate sum of its digits.
+10.WAP to print numbers from 1 to 10 (eg. of For Loop).
+11.WAP to print table of 10 (For Loop).
+12.WAP to print all the Even numbers between 0 & 10.
+13.Example of Break statement and continue statement.
+14.WAP to print all the Even numbers between 0 & 10 (Using if condition in For Loop).
+
