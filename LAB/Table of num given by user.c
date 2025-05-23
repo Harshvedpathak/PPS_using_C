@@ -1,3 +1,6 @@
+//PPS Lab 22/05/2025
+//WAP to print table of number given by user.
+
 #include <stdio.h>
 int main()
 {
