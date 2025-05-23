@@ -1,0 +1,1 @@
+Q1.Write a program to calculate Area and Perimeter of a rectangle if its length and breath are input through the keyboard 
