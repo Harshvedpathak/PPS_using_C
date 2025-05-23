@@ -1,4 +1,5 @@
 //Lecture 03/04/2025
+//WAP to accept marks obtained by a student in Physics, Chemistry, Mathematics & Biology out of 100 for each subject. Calculate and display total marks, average marks and percentage marks obtained by student.
 #include<stdio.h>
 int main()
 {
