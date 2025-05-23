@@ -1,1 +1,13 @@
-Q1.Write a program to calculate Area and Perimeter of a rectangle if its length and breath are input through the keyboard 
+WAP to calculate Area and Perimeter of a rectangle if its length and breath are input through the keyboard. 
+WAP to do Addition, Substraction, Multipliction of two numbers (Basic Calculator).
+WAP to find factorial of given number by user.
+WAP to print first 15 number of Fibonacci Series.
+WAP to find grade obtained by student if students enters marks through keyboard.
+WAP to Calculate Gross Salary of Ramesh if Ramesh’s basic salary is input through the keyboard. His dearness allowance is 40% of basic salary, and house rent allowance is 20% of basic salary.
+WAP to find the largest number if two numbers are entered through keyboard.
+WAP to find the largest number if Three numbers are entered through keyboard.
+WAP to find entered number is odd or even.
+WAP to check and print whether entered number is Prime or Not.
+WAP to swap contains of variable A and B using two variables.
+WAP to Swap contains of variable A and B with using extra variable C.
+WAP to print table of number given by user.
