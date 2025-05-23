@@ -1,14 +1,36 @@
+//PPS Lab 22/05/2025.
+//WAP to check , print whether entered number is Prime or Not.
+
 #include <stdio.h>
 int main()
 {
-	int num,i;
-	printf("Enter the number to check wheather it is prime or not: ");
-	scanf("%d",num);
-	for (i=0;i<=num;i++)
+	int num, rem, i, check=0;
+	printf("Enter the Number : ");
+	scanf("%d", &num);
+	if (num <= 1)
 	{
-		if(i % 2==0)
-		printf("%d/n",i);
+		printf("%d is Not a Prime Number", num);
 	}
+	else
+	{
+	  for (i = 2; i < num; i++)
+	   {
+		rem = num % i ;
+		if (rem == 0)
+		{
+			check = 1;
+			break;
+		}
+	   }	
+ 	
+	  if (check == 0)
+	  {
+		printf("%d is a Prime Number", num);
+	  }
+	  else
+	  {
+		printf("%d is Not a Prime Number", num);
+	  }
+	}	
 	return 0;
-}
-
+} 
