@@ -9,7 +9,7 @@
 09.WAP if a three digit number is input through keyboard write a program to calculate sum of its digits.
 10.WAP to print numbers from 1 to 10 (eg. of For Loop).
 11.WAP to print table of 10 (For Loop).
-12.WAP to print all the Even numbers between 0 & 10.
+12.WAP to print all the Even and Odd numbers between 0 & 10.
 13.Example of Break statement and continue statement.
 14.WAP to print all the Even numbers between 0 & 10 (Using if condition in For Loop).
-
+15.WAP to print all the Odd numbers between 0 & 10. (Using if condition in For Loop).
