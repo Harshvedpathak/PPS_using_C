@@ -1,5 +1,5 @@
-//LAB_15/05/25
-//WAP to get factorial of input number
+//PPS Lab 22/05/25.
+//WAP to find factorial of given number by user.
 
 #include <stdio.h>
 int main()
