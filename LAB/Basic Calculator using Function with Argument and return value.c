@@ -1,4 +1,9 @@
 #include <stdio.h>
+
+int sum(int n1, int n2);
+int sub(int n1, int n2);
+int mul(int n1, int n2);
+int div(int n1, int n2);
 int main()
 {
 	int a,b,op;
@@ -33,28 +38,28 @@ int main()
 	return 0;
 }
 
-int sum(n1,n2)
+int sum(int n1,int n2)
 {
 	int s1;
 	s1=n1+n2;
 	return s1;
 }
 
-int sub(n1,n2)
+int sub(int n1,int n2)
 {
 	int s2;
 	s2=n1-n2;
 	return s2;
 }
 
-int mul(n1,n2)
+int mul(int n1,int n2)
 {
 	int m;
 	m=n1*n2;
 	return m;
 }
 
-int div(n1,n2)
+int div(int n1,int n2)
 {
 	int d;
 	d=n1/n2;
