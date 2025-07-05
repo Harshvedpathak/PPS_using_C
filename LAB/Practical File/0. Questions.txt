@@ -29,18 +29,18 @@
        *  *  *  *    |  10 11 12 13 14 15 16   |      *     *
                      |                         |         *
 
-# Experiment 06. 
+# Experiment 06. Switch Statement. 
     6.1 To Print Students Grade.
     6.2 To Print Day of Week.
 
-# Experiment 07
+# Experiment 07. Array (1D & 2D).
     7.1 To Store and Print 1D Array.
     7.2 Matrix Addition of (3 X 3), Accept Value From User & Print Addition. 
 
-# Experiment 08
+# Experiment 08. Function & Recursion.
     8.1 Basic Calculator Using Function.
     8.2 To print Factorial of number using Recursion.
 
-# Experiment 09
+# Experiment 09. Searching Algorithms.
     9.1 Search a number from Array (Linear Search).
     9.2 Search a number from Array (Binary Search).
