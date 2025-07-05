@@ -1,5 +1,5 @@
-//03-04-2025
-//LAB_Basic Calculator 
+// 2.2 Basic Calculator 
+// Harsh Vedpathak_8026
 #include <stdio.h>
 int main()
 {
